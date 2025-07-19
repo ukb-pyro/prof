@@ -10,7 +10,7 @@ Not a workflow. A **recursive tragedy made code**.
 * Hippocampus
 * Insular cortex
 
-**MPH (Bayesian):**
+**MPH (Physiology/Bayesian):**
 
 * Neuron
 * White matter
@@ -18,7 +18,7 @@ Not a workflow. A **recursive tragedy made code**.
 * Brain networks
 * Consciousness
 
-**PhDc (Simulation):**
+**PhDc (Simulation/Pathology/Adversarial,Transactional,Cooperative-Emergent):**
 
 * Ingest (parameters/input)
 * Fractalize (agents/complexity)
