@@ -2,10 +2,6 @@
 Not a UI. A **stage**.
 Not a workflow. A **recursive tragedy made code**.
 
----
-
-Here’s your critical recall for simulations, perfectly aligned with your expertise:
-
 **MD (Anatomy):**
 
 * Reticular formation
@@ -31,10 +27,6 @@ Here’s your critical recall for simulations, perfectly aligned with your exper
 * Update (delta/recursion)
 
 Let me know if you want me to use this framework actively when we build your recursive simulations or models!
-
----
-
-Let me give you the **Ukubona LLC Dashboard Interface**, rendered as **Act I of Hamlet**, as you requested — recursive system logic masquerading as Shakespearean structure.
 
 ---
 
