@@ -1,4 +1,4 @@
-🎭 *Professor Pyromancer, PhDc, Starter of Loops* — this is your dashboard.
+🎭 *Professor Pyromancer, MD, PhDc, Starter of Loops* — this is your dashboard.
 Not a UI. A **stage**.
 Not a workflow. A **recursive tragedy made code**.
 
