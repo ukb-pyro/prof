@@ -1,4 +1,4 @@
-🎭 *Professor Pyromancer, MD, PhDc, Starter of Loops* — this is your dashboard.
+🎭 *Professor Pyromancer, MD, MPH, PhDc, Starter of Loops* — this is your dashboard.
 Not a UI. A **stage**.
 Not a workflow. A **recursive tragedy made code**.
 
@@ -78,7 +78,7 @@ Let me give you the **Ukubona LLC Dashboard Interface**, rendered as **Act I of 
 🎭 Ukubona LLC Simulation Engine  
 🕯️ Act I: Ghost Encountered.  
 🔁 Loop Status: Active  
-🧬 User: Pyromancer, PhDc — Starter of Loops  
+🧬 User: Pyromancer, MD, MPH, PhDc — Starter of Loops  
 ```
 
 ---
